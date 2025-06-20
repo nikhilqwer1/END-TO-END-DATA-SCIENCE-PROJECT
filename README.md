@@ -21,4 +21,4 @@ An API is created with routes, typically /predict, which handles POST requests.
 The model loads at startup, and when a request is made with input features (usually in JSON format), the server processes the request, uses the model to make a prediction, and returns the result.
 The final deliverable is a functional API or web app. Interns are encouraged to test the API using tools like Postman or curl, or even create a simple web interface with HTML for user interaction.
 By completing this task, interns learn how to bridge the gap between data science and software engineering. In real-world applications, deploying models so they can be used by websites, mobile apps, or internal tools is a critical skill. Without deployment, even the most accurate model has limited practical value.
-# output
+
