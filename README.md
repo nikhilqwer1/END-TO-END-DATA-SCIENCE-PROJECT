@@ -4,7 +4,7 @@
 *INTERN ID - CT06DF1885
 *DOMAIN - DATA SCIENCE
 *DURATION - 6 WEEK
-*MENTOR - NEEL SANTOSH
+*MENTOR - NEELA SANTHOSH
 # Description
  This includes all stages of a real-world data science workflow: data collection, preprocessing, model building, and most importantly, deploying the model using Flask or FastAPI. The goal is to not only create a machine learning model but also make it accessible to users through a web API or web app, simulating how data products function in industry.
 The task begins with data collection, where a dataset is either sourced from a public platform (like Kaggle, UCI Machine Learning Repository, or an open API) or created manually. A good example is the Iris dataset, which contains measurements of flower species and is used for classification tasks.
